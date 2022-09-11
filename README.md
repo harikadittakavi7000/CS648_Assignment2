@@ -18,4 +18,5 @@ _San Diego, CA 92115_
 _Tel. (800) 555-5555_
 
 
+
 ###### _This is an interactive webpage with a navigation menu to move between pages. Created unordered lists, added images, used header and footer tags to organize the HTML._
