@@ -1,4 +1,4 @@
-## **Welcome To [Vecta Corp.](https://github.com/harikadittakavi7000/CS648_Assignemnt2/blob/main/index.html)**
+## **Welcome To [Vecta Corp.](https://github.com/harikadittakavi7000/CS648_Assignment2/blob/main/index.html)**
 
 With innovative approaches and advanced methodologies, Vecta Corporation provides _scalable business solutions_ to help companies achieve success through **revenue increase, cost management, and user satisfaction**. 
 
